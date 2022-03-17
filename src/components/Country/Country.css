@@ -1,0 +1,11 @@
+.country-container{
+    background-color: bisque;
+    border: 3px solid red;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.country-container img{
+    width: 200px;
+}
